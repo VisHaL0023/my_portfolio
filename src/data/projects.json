@@ -1,0 +1,37 @@
+[
+  {
+    "title": "QKART E-COMMERCE WEBSITE",
+    "imageSrc": "projects/qkart.png",
+    "description": ["QKart is an e-commerce application offering a variety of products for customers based on React.",
+          "Implemented components based logic for authentication, shopping cart and checkout with responsive design.",
+          "Implemented Authentication Service using JWT token from scratch and Cart functionality."],
+    "skills": ["React.js", "Material UI", "REST API", "JWT tokens."],
+    "demo": "https://qkart-ecommerce-vishal.netlify.app/",
+    "source": "https://github.com/VisHaL0023/Q_Kart-React.git",
+    "isDemo":true
+  },
+  {
+    "title": "AUDIOLY WEBSITE",
+    "imageSrc": "projects/audioly.png",
+    "description": ["Audioly is showing variety of songs albums, which is based on Spotify.",
+          "Design and implemented components based responsive UI for different devices.",
+          "Used Carousel and Accordion for showing different types of data."],
+    "skills": ["React.js", "Material UI", "REST API", "React custom Hooks"],
+    "demo": "https://audioly-for-you.netlify.app/",
+    "source": "https://github.com/VisHaL0023/Audioly.git",
+    "isDemo":true
+  },
+  {
+    "title": "AIRLINE TICKET BOOKING SYSTEM",
+    "imageSrc": "projects/project.png",
+    "description": ["Designed a Scalable air ticket booking app using Microservice architecture.",
+        "Wrote REST API Gateway along with separate microservices using Node.js framework",
+        "Implemented Authentication Service using JWT token from scratch and inter service communication using RabbitMQ",
+        "Designed CRON based Reminder service MVC architecture with segregation done in repository layer, service layer and utils.",
+        "Implemented MySQL transactions for critical booking operations."],
+    "skills": ["React.js", "Material UI", "REST API", "JWT tokens."],
+    "demo": "https://qkart-ecommerce-vishal.netlify.app/",
+    "source": "https://docs.google.com/document/d/11ThNlZQ1rdler7Pc3fPIN3ua2iUouX0H26BJ4yGp0z0/edit",
+    "isDemo":false
+  }
+]
