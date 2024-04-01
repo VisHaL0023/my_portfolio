@@ -1,5 +1,18 @@
 [
   {
+    "title": "CRM App",
+    "imageSrc": "projects/CRM_App.png",
+    "description": ["Implemented three user roles : Admin, customer and engineer for efficient management. Customer can create tickets while engineers can solve.",
+          "Admin has control over user types and managing tickets.",
+          "Designed a dynamic dashboard displaying all tickets and interactive charts for data visualization.",
+          "Utilized Redux-toolkit for state management, ensuring smooth flow and efficient updates."
+    ],
+    "skills": ["React", "Redux", "Node.js", "MongoDB", "Express", "JavaScript", "Tailwind CSS", "Custom hook", "Material-Tailwind"],
+    "demo": "https://crm-app-vishal.netlify.app/",
+    "source": "https://github.com/VisHaL0023/CRM_App.git",
+    "isDemo":true
+  },
+  {
     "title": "QKART E-COMMERCE WEBSITE",
     "imageSrc": "projects/qkart.png",
     "description": ["QKart is an e-commerce application offering a variety of products for customers based on React.",
